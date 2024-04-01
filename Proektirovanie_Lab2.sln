@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proektirovanie_Lab2", "Proektirovanie_Lab2\Proektirovanie_Lab2.csproj", "{FD08312C-CD57-452B-B0F7-F21FECF949F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD08312C-CD57-452B-B0F7-F21FECF949F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD08312C-CD57-452B-B0F7-F21FECF949F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD08312C-CD57-452B-B0F7-F21FECF949F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD08312C-CD57-452B-B0F7-F21FECF949F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
